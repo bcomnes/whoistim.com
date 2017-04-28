@@ -22,7 +22,7 @@ Joining [Inkling](https://www.inkling.com/) from 2015 to 2017, Tim led product d
 
 ###### Hobbies and distractions
 
-Since picking up his first SLR camera at 14, Tim has captured the world through his eye and his camera, occassionally [showing those images](https://www.instagram.com/timerickson/) back to the world. Tim is still building projects and services for the web, and can today be found collaborating under the moniker [Bureau of Minds](http://bureauofminds.com/)
+Since picking up his first SLR camera at 14, Tim has captured the world through his eye and his camera, occassionally [showing those images](https://www.instagram.com/timerickson/) back to the world. Tim is still building side projects and services for the web, and can today be found collaborating under the moniker [Bureau of Minds](http://bureauofminds.com/)
 
 ###### Contact him
 
