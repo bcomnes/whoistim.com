@@ -6,7 +6,7 @@ Tim Erickson, 26, is a digital product designer, photographer, videographer and 
 
 Tim was born at a very young age in the suburbs of Minneapolis, Minnesota. His early interests in model rocketry, computer building, video game design, and short film direction would serve as inspiration for a career in digital creative production across a multi-sensory canvas. 
 
-Taking an interest in internet forums would lead him to write his first lines of front-end code at 14, and later lead him to help start and operate a few successful online communities. At 16 he founded a small digital creative agency, neutyp, with a few online friends from these communities. neutyp professionally served clients seeking website design and development services, and served as a home to his first entrepreneurial expirements, theurld, readotw, and catalog, among others.
+Taking an interest in internet forums would lead him to write his first lines of front-end code at 14, and later lead him to help start and operate a few successful online communities. At 16 he founded a small digital creative agency, [neutyp](http://neutyp.com/), with a few online friends from these communities. neutyp professionally served clients seeking website design and development services, and served as a home to his first entrepreneurial expirements, [theurld](https://github.com/neutyp/theurld), [readotw](https://github.com/neutyp/readotw), and [catalog](https://github.com/neutyp/catalog), among others.
 
 ###### College and startups
 
@@ -16,9 +16,9 @@ Spice Apps would then go on to explore the problems of enterprise knowledge shar
 
 ###### Moving to San Francisco
 
-Before briefly considering [Portland](http://www.oregonlive.com/silicon-forest/index.ssf/2011/08/portland_incubator_experiment_attracts_290_applica.html), Tim moved to San Francisco in 2013 to join young startup ClassDojo. From 2013 to 2014 Tim helped ClassDojo grow to be used in 2 in 3 schools in the US, and allow teachers to capture one billion moments of student behaviour.  Tim joined BrightBytes, another education-tech startup, later in 2014 to help service school districts directly with data visualization tools to track school performance, budget, and digital safety. One such tool could predict, as early as first grade, with 90% accuracy, a student dropping out. 
+Before briefly considering [Portland](http://www.oregonlive.com/silicon-forest/index.ssf/2011/08/portland_incubator_experiment_attracts_290_applica.html), Tim moved to San Francisco in 2013 to join young startup ClassDojo. From 2013 to 2014 Tim helped [ClassDojo](https://www.classdojo.com/) grow to be used in 2 in 3 schools in the US, and allow teachers to capture one billion moments of student behaviour.  Tim joined [BrightBytes](http://www.brightbytes.net/), another education-tech startup, later in 2014 to help service school districts directly with data visualization tools to track school performance, budget, and digital safety. One such tool could predict, as early as first grade, with 90% accuracy, a student dropping out. 
 
-Joining Inkling from 2015 to 2017, Tim led product design for Inkling's consumer-facing learning application, Axis. Inkling, originally built around e-book authoring, today uses it's content authoring platform to deliver training and reference materials to large distributed deskless workforces. 
+Joining [Inkling](https://www.inkling.com/) from 2015 to 2017, Tim led product design for Inkling's consumer-facing learning application, Axis. Inkling, originally built around e-book authoring, today uses it's content authoring platform to deliver training and reference materials to large distributed deskless workforces. 
 
 ###### Hobbies and distractions
 
