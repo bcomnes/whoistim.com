@@ -24,6 +24,7 @@ Joining [Inkling](https://www.inkling.com/) from 2015 to 2017, Tim led product d
 
 Since picking up his first SLR camera at 14, Tim has captured the world through his eye and his camera, occassionally [showing those images](https://www.instagram.com/timerickson/) back to the world. Tim is still building projects and services for the web, and can today be found collaborating under the moniker [Bureau of Minds](http://bureauofminds.com/)
 
+###### Contact him
 
-
+Tim can be reached by email at tim@neutyp.com, or by phone at 651-343-2552. Say hi! 
 
