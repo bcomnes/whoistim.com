@@ -1,6 +1,6 @@
 #### Who is Tim?
 
-Tim Erickson, 26, is a digital product designer, photographer, videographer and occassional music producer. 
+Tim Erickson, 26, is a digital product designer, photographer, videographer and occassional music producer. He lives in San Francisco, CA.
 
 ###### Early life
 
